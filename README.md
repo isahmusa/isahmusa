@@ -35,35 +35,46 @@ I am dedicated to leveraging technology to create impactful solutions, streamlin
 
 ## 🚀 Highlighted Projects  
 
-### 1. **NASENIPMO Project Management System**  
-A comprehensive project management tool designed to monitor and manage projects under NASENI.  
-- **Technologies:** React.js, Node.js, SQL, Bootstrap
-- 
-### 2. **NASENI Technical Support System**  
-A ticketing platform designed to streamline technical issue resolution.  
-- **Technologies:** PHP, SQL, Bootstrap  
+# 🚀 Highlighted Projects  
 
-### 3. **NASENI Video Conferencing App**  
-A robust conferencing solution with features like chat, video/audio, and screen sharing.  
-- **Technologies:** React.js, Stream, Agora  
-
-### 4. **NASENI Visitor Management System**  
-A professional visitor tracking system with barcode scanning and detailed reporting.  
-- **Technologies:** PHP, SQL, Bootstrap  
-
-### 5. **NASENI PLUS (AI Bot)**  
-An intelligent bot designed to automate internal processes and enhance productivity.  
-- **Technologies:** AI, Machine Learning  
-
-### 6. **Blockchain-Based Solutions**  
-Developed decentralized apps (DApps) for secure and scalable operations.  
-
-### 7. **NASENIPMO Project Management System**  
+### 1. **[NASENIPMO Project Management System](https://github.com/your-username/nasenipmo-project-management)**  
 A comprehensive project management tool designed to monitor and manage projects under NASENI.  
 - **Technologies:** React.js, Node.js, SQL, Bootstrap  
 
-### 8. **AI-Powered Data Analytics Dashboards**  
+---
+
+### 2. **[NASENI Technical Support System](https://github.com/your-username/naseni-technical-support)**  
+A ticketing platform designed to streamline technical issue resolution.  
+- **Technologies:** PHP, SQL, Bootstrap  
+
+---
+
+### 3. **[NASENI Video Conferencing App](https://github.com/your-username/naseni-video-conferencing)**  
+A robust conferencing solution with features like chat, video/audio, and screen sharing.  
+- **Technologies:** React.js, Stream, Agora  
+
+---
+
+### 4. **[NASENI Visitor Management System](https://github.com/your-username/naseni-visitor-management)**  
+A professional visitor tracking system with barcode scanning and detailed reporting.  
+- **Technologies:** PHP, SQL, Bootstrap  
+
+---
+
+### 5. **[NASENI PLUS (AI Bot)](https://github.com/your-username/naseni-plus-ai-bot)**  
+An intelligent bot designed to automate internal processes and enhance productivity.  
+- **Technologies:** AI, Machine Learning  
+
+---
+
+### 6. **[Blockchain-Based Solutions](https://github.com/your-username/blockchain-solutions)**  
+Developed decentralized apps (DApps) for secure and scalable operations.  
+
+---
+
+### 7. **[AI-Powered Data Analytics Dashboards](https://github.com/your-username/ai-data-analytics)**  
 Interactive dashboards for insightful decision-making using analytics tools.  
+
 
 ---
 
