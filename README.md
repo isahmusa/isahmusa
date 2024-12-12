@@ -95,9 +95,9 @@ Interactive dashboards for insightful decision-making using analytics tools.
 ## 📫 Let's Connect!  
 - **Email:** [datalinkscomputer@gmail.com.com](mailto:datalinkscomputer@gmail.com.com)  
 - **LinkedIn:** [Musa Danladi Isah](https://linkedin.com/in/your-profile)  
-- **GitHub:** [@Musa-Danladi-Isah](https://github.com/isahmusa)  
+- **GitHub:** [Musa-Danladi-Isah](https://github.com/isahmusa)  
 - **Facebook:** [Musa Danladi Isah](https://www.facebook.com/danladi.musa.754918)
-- **Facebook:** [Danladi Network Hub](https://www.facebook.com/profile.php?id=100095188947752)
+- **Facebook Page:** [Danladi Network Hub](https://www.facebook.com/profile.php?id=100095188947752)
  
 
 ---
