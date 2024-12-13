@@ -36,7 +36,6 @@ I am dedicated to leveraging technology to create impactful solutions, streamlin
 - **Platforms:** Stream, Agora, Google Console, Vercel.  
 - **Database Management:** SQL, NoSQL, Database Architecture.  
 
-## 💼 Technical Skills: 
 ## 💼 Additional Technical Skills:
 - **APIs Integration and Management: Experienced in working with third-party APIs to extend application functionality.
 - **Mobile App Development: Skilled in building responsive apps using hybrid technologies like React Native.
