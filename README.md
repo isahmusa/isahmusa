@@ -7,9 +7,12 @@ I am an **Assistant Chief Technical Officer** at the **National Agency for Scien
 
 ## 🌟 About Me  
 - **Position:** Assistant Chief Technical Officer  
-- **Organization:** National Agency for Science and Engineering Infrastructure (NASENI)  
-- **Education:**  
-  - **HND** in Computer Science  
+- **Organization:** National Agency for Science and Engineering Infrastructure (NASENI)
+- - Memberships:
+ - **Member, Computer Society (actively promoting innovation and knowledge sharing in computing disciplines).
+- **Education:**
+  - **Secondary School: Government College Keffi (2001)
+  - **HND in Computer Science (Osun State Polytechnic, 2006)
   - **PGD** (in view)  
   - Chartered Accountant (**ICAN**, in view)  
 
@@ -24,14 +27,32 @@ I am dedicated to leveraging technology to create impactful solutions, streamlin
 - **AI & Machine Learning:** Developing intelligent systems for automation and insights.  
 - **Blockchain:** Building decentralized systems for enhanced security and transparency.  
 - **Data Analysis:** Extracting actionable insights through visualization and reporting.  
-- **Google Console & Vercel Management:** Efficient deployment and monitoring of web applications.  
+- **Google Console & Vercel Management:** Efficient deployment and monitoring of web applications.
+- **ICT Program Management: Developing and implementing technology strategies for enterprise growth.
+- **Cloud Deployment: Efficiently managing apps with platforms like Google Console and Vercel.
 
 ### Technical Skills:  
 - **Languages & Tools:** PHP, SQL, JavaScript, React.js, Bootstrap, Tailwind CSS, Next.js.  
 - **Platforms:** Stream, Agora, Google Console, Vercel.  
 - **Database Management:** SQL, NoSQL, Database Architecture.  
 
+### Technical Skills:  Additional Technical Skills:
+- **APIs Integration and Management: Experienced in working with third-party APIs to extend application functionality.
+- **Mobile App Development: Skilled in building responsive apps using hybrid technologies like React Native.
+- **Git & Version Control: Mastery in managing code repositories and team collaboration workflows.
+- **Docker & Containerization: Proficient in deploying scalable microservices and applications using Docker.
+- **Microservices Architecture: Expertise in designing and implementing distributed systems.
+- **Networking & Infrastructure: Understanding of LAN, WAN, network security protocols, and systems maintenance.
+- **DevOps Tools: Hands-on experience with CI/CD tools such as Jenkins and GitHub Actions.
+- **Unit Testing & Automation: Ensuring application reliability and performance using Jest, Mocha, and Selenium.
+- **UI/UX Design: Creating user-friendly interfaces with tools like Figma and Adobe XD.
+- **Power BI & Tableau: Advanced capabilities in data visualization and business intelligence.
+
 ---
+### 🎓 Achievements
+- **Trained over 5,000 individuals in software development, cybersecurity, and ICT-related programs.
+- **Received State and National Awards during NYSC (2010).
+- **Active participant and speaker in notable conferences, including WACREN 2023.
 
 ## 🚀 Highlighted Projects  
 
@@ -75,13 +96,6 @@ Developed decentralized apps (DApps) for secure and scalable operations.
 ### 7. **[AI-Powered Data Analytics Dashboards](https://github.com/your-username/ai-data-analytics)**  
 Interactive dashboards for insightful decision-making using analytics tools.  
 
-
----
-
-## 🎓 Achievements  
-- Trained **thousands of individuals** in software development, cybersecurity, and ICT.  
-- Received **State and National Awards** during NYSC (2010).  
-- Experienced speaker at conferences and technical workshops, including **WACREN 2023**.  
 
 ---
 
