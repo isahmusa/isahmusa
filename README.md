@@ -8,20 +8,20 @@ I am an **Assistant Chief Technical Officer** at the **National Agency for Scien
 ## 🌟 About Me  
 - **Position:** Assistant Chief Technical Officer  
 - **Organization:** National Agency for Science and Engineering Infrastructure (NASENI)
-- - Memberships:
- - **Member, Computer Society (actively promoting innovation and knowledge sharing in computing disciplines).
+- **Memberships:**
+  -  Member, Computer Society (actively promoting innovation and knowledge sharing in computing disciplines).
 - **Education:**
-  - **Secondary School: Government College Keffi (2001)
-  - **HND in Computer Science (Osun State Polytechnic, 2006)
-  - **PGD** (in view)  
-  - Chartered Accountant (**ICAN**, in view)  
+  -  Secondary School: Government College Keffi (2001)
+  -  HND in Computer Science (Osun State Polytechnic, 2006)
+  -  PGD** (in view)  
+  -  Chartered Accountant (**ICAN**, in view)  
 
 I am dedicated to leveraging technology to create impactful solutions, streamline processes, and empower others through training and mentorship.
 
 ---
 
 ## 💼 My Expertise  
-### Core Competencies:  
+### Core Competencies::**
 - **Cybersecurity:** Ensuring robust protection of systems and networks.  
 - **Web Development:** Crafting dynamic web applications with PHP, SQL, React.js, and more.  
 - **AI & Machine Learning:** Developing intelligent systems for automation and insights.  
@@ -31,12 +31,13 @@ I am dedicated to leveraging technology to create impactful solutions, streamlin
 - **ICT Program Management: Developing and implementing technology strategies for enterprise growth.
 - **Cloud Deployment: Efficiently managing apps with platforms like Google Console and Vercel.
 
-### Technical Skills:  
+## 💼 Technical Skills:
 - **Languages & Tools:** PHP, SQL, JavaScript, React.js, Bootstrap, Tailwind CSS, Next.js.  
 - **Platforms:** Stream, Agora, Google Console, Vercel.  
 - **Database Management:** SQL, NoSQL, Database Architecture.  
 
-### Technical Skills:  Additional Technical Skills:
+## 💼 Technical Skills: 
+## 💼 Additional Technical Skills:
 - **APIs Integration and Management: Experienced in working with third-party APIs to extend application functionality.
 - **Mobile App Development: Skilled in building responsive apps using hybrid technologies like React Native.
 - **Git & Version Control: Mastery in managing code repositories and team collaboration workflows.
