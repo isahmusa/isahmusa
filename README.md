@@ -14,7 +14,7 @@ I am an **Assistant Chief Technical Officer** at the **National Agency for Scien
   -  Secondary School: Government College Keffi (2001)
   -  HND in Computer Science (Osun State Polytechnic, 2006)
   -  PGD** (in view)  
-  -  Chartered Accountant (**ICAN**, in view)  
+  -  The Institute of Chartered Accountants of Nigeria  (**ICAN**, in view)  
 
 I am dedicated to leveraging technology to create impactful solutions, streamline processes, and empower others through training and mentorship.
 
