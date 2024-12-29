@@ -20,7 +20,7 @@ I am a dedicated technical officer with over a decade of experience in cybersecu
 
 ## 🎓 **Education**
 - **Higher National Diploma (HND):** Computer Science, Osun State Polytechnic, Iree (2006)  
-- **Secondary School Certificate:** Government College Keffi (2001)  
+- **Secondary School Certificate:** Government College Keffi Nasarawa State (2001)  
 - **Postgraduate Diploma (PGD):** In progress  
 - **ICAN Certification:** In progress  
 
