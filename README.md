@@ -11,10 +11,10 @@ I am a dedicated technical officer with over a decade of experience in cybersecu
 
 ## 📇 **Contact Information**
 - **Organization:** National Agency for Science and Engineering Infrastructure (NASENI)  
-- **Phone:** [08166967926]  
-- **Email:** [danladimusadba2008@gmail.com]  
-- **LinkedIn:** [@musa_danladi_isah]  
-- **Portfolio:** [https://github.com/isahmusa]  
+- **Phone:** 08166967926 
+- **Email:** danladimusadba2008@gmail.com 
+- **LinkedIn:** @musa_danladi_isah 
+- **Portfolio:** https://github.com/isahmusa 
 
 ---
 
